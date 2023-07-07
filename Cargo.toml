@@ -1,0 +1,13 @@
+[package]
+name = "avatar_generator"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+plotchart = "0.2.12"
+clap = "3.2.8"
+regex = "1.9.0"
+rand = "0.8.5"
+utf8_slice = "1.0.0"
